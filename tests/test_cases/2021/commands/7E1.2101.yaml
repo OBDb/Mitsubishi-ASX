@@ -1,0 +1,8 @@
+command_id: 7E1.2101
+test_cases:
+- expected_values:
+    MITSUBISHI_PRIMARY_PRES_7E1_01: 207.96788
+  response: 7E8076101A41227DC52
+- expected_values:
+    MITSUBISHI_PRIMARY_PRES_7E1_01: -21.28301
+  response: 7E8076101C20A263053

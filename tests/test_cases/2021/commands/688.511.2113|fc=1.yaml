@@ -1,0 +1,10 @@
+command_id: 688.511.2113|fc=1
+test_cases:
+- expected_values:
+    MITSUBISHI_AC_RPM: 1199
+    MITSUBISHI_AC_VSS: 250
+  response: 511076113AC04AF0A8A
+- expected_values:
+    MITSUBISHI_AC_RPM: 2089
+    MITSUBISHI_AC_VSS: 250
+  response: 511076113B2082908BE

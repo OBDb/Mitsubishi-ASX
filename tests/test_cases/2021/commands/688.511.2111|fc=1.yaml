@@ -1,8 +1,29 @@
 command_id: 688.511.2111|fc=1
 test_cases:
 - expected_values:
+    MITSUBISHI_AC_AAT: 28
+  response: '5110761118813000000'
+- expected_values:
+    MITSUBISHI_AC_AAT: 28.5
+  response: 511076111891F000000
+- expected_values:
     MITSUBISHI_AC_AAT: 29
   response: 5110761118A0A000000
 - expected_values:
+    MITSUBISHI_AC_AAT: 29
+  response: 5110761118A0B000000
+- expected_values:
+    MITSUBISHI_AC_AAT: 29
+  response: 5110761118A33000000
+- expected_values:
+    MITSUBISHI_AC_AAT: 29
+  response: 5110761118A36000000
+- expected_values:
+    MITSUBISHI_AC_AAT: 32
+  response: '5110761119019000000'
+- expected_values:
     MITSUBISHI_AC_AAT: 36.5
   response: 511076111992C000000
+- expected_values:
+    MITSUBISHI_AC_AAT: 39.5
+  response: 5110761119F3A000000

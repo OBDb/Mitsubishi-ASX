@@ -1,0 +1,8 @@
+command_id: 7E0.210F
+test_cases:
+- expected_values:
+    MITSUBISHI_MPI_PURGE_VALVE_CTRL: 0
+  response: 7E807610F0000000000
+- expected_values:
+    MITSUBISHI_MPI_PURGE_VALVE_CTRL: 56.47059
+  response: 7E807610F9000000000

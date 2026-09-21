@@ -1,0 +1,8 @@
+command_id: 600.500.2124|fc=1
+test_cases:
+- expected_values:
+    MITSUBISHI_TP_RL: 38.4
+    MITSUBISHI_TT_RL: 32
+  response: |-
+    500100D612400C270FF
+    50021320201BBC05210

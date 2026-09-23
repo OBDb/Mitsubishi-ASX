@@ -2,22 +2,16 @@ command_id: 7E0.210A
 test_cases:
 - expected_values:
     MITSUBISHI_MPI_VVT_PHASE_ANGLE: -0.625
-  response: 7E807610A4B9B7F1000
+  response: 7E807610A47CF7F1000
+- expected_values:
+    MITSUBISHI_MPI_VVT_PHASE_ANGLE: 0
+  response: 7E807610A4830801000
+- expected_values:
+    MITSUBISHI_MPI_VVT_PHASE_ANGLE: -10
+  response: 7E807610A4D82700E00
 - expected_values:
     MITSUBISHI_MPI_VVT_PHASE_ANGLE: -0.625
   response: 7E807610A4DE37F1000
 - expected_values:
-    MITSUBISHI_MPI_VVT_PHASE_ANGLE: -1.25
-  response: 7E807610A4E447E0FC0
-- expected_values:
     MITSUBISHI_MPI_VVT_PHASE_ANGLE: -0.625
-  response: 7E807610A4E447F1000
-- expected_values:
-    MITSUBISHI_MPI_VVT_PHASE_ANGLE: -10
-  response: 7E807610A4EA5700E00
-- expected_values:
-    MITSUBISHI_MPI_VVT_PHASE_ANGLE: -1.25
-  response: 7E807610A4EA57E0FC0
-- expected_values:
-    MITSUBISHI_MPI_VVT_PHASE_ANGLE: -3.125
-  response: 7E807610A4FC97B0FA0
+  response: 7E807610A4F077F0FE0

@@ -4,23 +4,14 @@ test_cases:
     MITSUBISHI_FLI: 42
   response: 5140561A302033A
 - expected_values:
+    MITSUBISHI_FLI: 100
+  response: 5140561A368037F
+- expected_values:
+    MITSUBISHI_FLI: 30
+  response: 5140561A373032E
+- expected_values:
     MITSUBISHI_FLI: 46
   response: 5140561A3A6023E
-- expected_values:
-    MITSUBISHI_FLI: 45
-  response: 5140561A3AB023D
-- expected_values:
-    MITSUBISHI_FLI: 45
-  response: 5140561A3B8023D
-- expected_values:
-    MITSUBISHI_FLI: 43
-  response: 5140561A3DF023B
-- expected_values:
-    MITSUBISHI_FLI: 44
-  response: 5140561A3DF023C
-- expected_values:
-    MITSUBISHI_FLI: 44
-  response: 5140561A3E3023C
 - expected_values:
     MITSUBISHI_FLI: 49
   response: 5140561A3E70241

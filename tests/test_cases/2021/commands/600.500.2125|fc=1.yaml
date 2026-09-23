@@ -1,6 +1,24 @@
 command_id: 600.500.2125|fc=1
 test_cases:
 - expected_values:
+    MITSUBISHI_TP_RR: 36.6
+    MITSUBISHI_TT_RR: 24
+  response: |-
+    500100D612500C20123
+    50021318601B2B74A0E
+- expected_values:
+    MITSUBISHI_TP_RR: 36.6
+    MITSUBISHI_TT_RR: 24
+  response: |-
+    500100D612500C20123
+    50021318601B2B74A4F
+- expected_values:
+    MITSUBISHI_TP_RR: 36.6
+    MITSUBISHI_TT_RR: 24
+  response: |-
+    500100D612500C20123
+    50021318601B2B74A5D
+- expected_values:
     MITSUBISHI_TP_RR: 38.6
     MITSUBISHI_TT_RR: 36
   response: |-

@@ -5,10 +5,10 @@ test_cases:
   response: '511076111712E000000'
 - expected_values:
     MITSUBISHI_AC_AAT: 18
-  response: 511076111743A000000
+  response: 511076111740A000000
 - expected_values:
-    MITSUBISHI_AC_AAT: 29
-  response: 5110761118A0A000000
+    MITSUBISHI_AC_AAT: 18
+  response: 511076111743A000000
 - expected_values:
     MITSUBISHI_AC_AAT: 39.5
   response: 5110761119F3A000000

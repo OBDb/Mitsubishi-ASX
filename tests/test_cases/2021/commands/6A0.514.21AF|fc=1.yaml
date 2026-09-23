@@ -4,26 +4,5 @@ test_cases:
     MITSUBISHI_DASHBOARD_V: 12.3
   response: 5140361AF7B
 - expected_values:
-    MITSUBISHI_DASHBOARD_V: 12.4
-  response: 5140361AF7C
-- expected_values:
-    MITSUBISHI_DASHBOARD_V: 12.5
-  response: 5140361AF7D
-- expected_values:
-    MITSUBISHI_DASHBOARD_V: 12.6
-  response: 5140361AF7E
-- expected_values:
-    MITSUBISHI_DASHBOARD_V: 13.1
-  response: 5140361AF83
-- expected_values:
-    MITSUBISHI_DASHBOARD_V: 13.4
-  response: 5140361AF86
-- expected_values:
-    MITSUBISHI_DASHBOARD_V: 14.3
-  response: 5140361AF8F
-- expected_values:
-    MITSUBISHI_DASHBOARD_V: 14.6
-  response: 5140361AF92
-- expected_values:
-    MITSUBISHI_DASHBOARD_V: 14.7
-  response: 5140361AF93
+    MITSUBISHI_DASHBOARD_V: 14.8
+  response: 5140361AF94

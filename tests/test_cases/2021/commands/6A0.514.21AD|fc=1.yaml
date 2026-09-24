@@ -4,5 +4,5 @@ test_cases:
     MITSUBISHI_ODO: 366850
   response: 5140561AD059902
 - expected_values:
-    MITSUBISHI_ODO: 8034562
-  response: 5140561AD7A9902
+    MITSUBISHI_ODO: 11573506
+  response: 5140561ADB09902

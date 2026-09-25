@@ -2,10 +2,16 @@ command_id: 600.500.2125|fc=1
 test_cases:
 - expected_values:
     MITSUBISHI_TP_RR: 35.2
-    MITSUBISHI_TT_RR: 18
+    MITSUBISHI_TT_RR: 16
   response: |-
     500100D612500C20123
-    50021318601ABB0443D
+    50021318601AAB04222
+- expected_values:
+    MITSUBISHI_TP_RR: 35.6
+    MITSUBISHI_TT_RR: 16
+  response: |-
+    500100D612500C20123
+    50021318601ACB2421E
 - expected_values:
     MITSUBISHI_TP_RR: 35.6
     MITSUBISHI_TT_RR: 19

@@ -11,7 +11,7 @@ test_cases:
   response: 5140561A309041C
 - expected_values:
     MITSUBISHI_FLI: 100
-  response: 5140561A368037F
+  response: 5140561A317047F
 - expected_values:
     MITSUBISHI_FLI: 46
   response: 5140561A3A6023E

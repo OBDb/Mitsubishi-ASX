@@ -1,8 +1,11 @@
 command_id: 6A0.514.21AD|fc=1
 test_cases:
 - expected_values:
+    MITSUBISHI_ODO: 39426
+  response: 5140561AD009A02
+- expected_values:
     MITSUBISHI_ODO: 366850
   response: 5140561AD059902
 - expected_values:
-    MITSUBISHI_ODO: 12753154
-  response: 5140561ADC29902
+    MITSUBISHI_ODO: 16750850
+  response: 5140561ADFF9902

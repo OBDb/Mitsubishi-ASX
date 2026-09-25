@@ -2,16 +2,22 @@ command_id: 600.500.2123|fc=1
 test_cases:
 - expected_values:
     MITSUBISHI_TP_FL: 34.6
-    MITSUBISHI_TT_FL: 19
+    MITSUBISHI_TT_FL: 17
   response: |-
     500100D612300C270FF
-    50021320301A8AD4544
+    50021320301A7AD430D
 - expected_values:
     MITSUBISHI_TP_FL: 34.6
     MITSUBISHI_TT_FL: 19
   response: |-
     500100D612300C270FF
     50021320301A8AD4590
+- expected_values:
+    MITSUBISHI_TP_FL: 35
+    MITSUBISHI_TT_FL: 17
+  response: |-
+    500100D612300C270FF
+    50021320301A9AF4356
 - expected_values:
     MITSUBISHI_TP_FL: 35
     MITSUBISHI_TT_FL: 19

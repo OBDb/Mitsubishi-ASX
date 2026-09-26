@@ -1,21 +1,17 @@
 command_id: 688.511.2113|fc=1
 test_cases:
 - expected_values:
-    MITSUBISHI_AC_RPM: 1194
-    MITSUBISHI_AC_VSS: 250
-  response: 5110761136604AA1582
-- expected_values:
-    MITSUBISHI_AC_RPM: 671
+    MITSUBISHI_AC_RPM: 759
     MITSUBISHI_AC_VSS: 0
-  response: 5110761136C029F0000
+  response: 5110761135602F70000
+- expected_values:
+    MITSUBISHI_AC_RPM: 2539
+    MITSUBISHI_AC_VSS: 250
+  response: 5110761135809EB32FF
 - expected_values:
     MITSUBISHI_AC_RPM: 2148
     MITSUBISHI_AC_VSS: 250
   response: 5110761137C08643AC2
-- expected_values:
-    MITSUBISHI_AC_RPM: 1366
-    MITSUBISHI_AC_VSS: 250
-  response: 5110761137E055623FF
 - expected_values:
     MITSUBISHI_AC_RPM: 3830
     MITSUBISHI_AC_VSS: 250

@@ -1,23 +1,23 @@
 command_id: 600.500.2124|fc=1
 test_cases:
 - expected_values:
-    MITSUBISHI_TP_RL: 35.4
-    MITSUBISHI_TT_RL: 13
+    MITSUBISHI_TP_RL: 33.8
+    MITSUBISHI_TT_RL: 4
   response: |-
     500100D612400C270FF
-    50021320201AAB13F12
+    50021320201A4A93620
+- expected_values:
+    MITSUBISHI_TP_RL: 34.6
+    MITSUBISHI_TT_RL: 7
+  response: |-
+    500100D612400C270FF
+    50021320201A7AD39FF
 - expected_values:
     MITSUBISHI_TP_RL: 36
     MITSUBISHI_TT_RL: 13
   response: |-
     500100D612400C270FF
     50021320201ACB43F83
-- expected_values:
-    MITSUBISHI_TP_RL: 36.2
-    MITSUBISHI_TT_RL: 18
-  response: |-
-    500100D612400C270FF
-    50021320201AEB5445F
 - expected_values:
     MITSUBISHI_TP_RL: 36.4
     MITSUBISHI_TT_RL: 14
@@ -36,12 +36,6 @@ test_cases:
   response: |-
     500100D612400C270FF
     50021320201B0B5443B
-- expected_values:
-    MITSUBISHI_TP_RL: 36.2
-    MITSUBISHI_TT_RL: 19
-  response: |-
-    500100D612400C270FF
-    50021320201B0B545A0
 - expected_values:
     MITSUBISHI_TP_RL: 38.2
     MITSUBISHI_TT_RL: 32
@@ -62,7 +56,7 @@ test_cases:
     50021320203B2B74711
 - expected_values:
     MITSUBISHI_TP_RL: 35.4
-    MITSUBISHI_TT_RL: 13
+    MITSUBISHI_TT_RL: 14
   response: |-
     500100D612400C270FF
-    500213202C1ACB13F12
+    500213202C1ABB140F3

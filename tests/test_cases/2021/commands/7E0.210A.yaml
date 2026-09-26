@@ -5,7 +5,7 @@ test_cases:
   response: 7E807610A00007F1000
 - expected_values:
     MITSUBISHI_MPI_VVT_PHASE_ANGLE: 1.25
-  response: 7E807610A43A1821000
+  response: 7E807610A4340821000
 - expected_values:
     MITSUBISHI_MPI_VVT_PHASE_ANGLE: 0.625
   response: 7E807610A4B3A810FE0

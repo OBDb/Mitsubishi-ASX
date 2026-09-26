@@ -43,6 +43,12 @@ test_cases:
     500100D612500C20123
     50021318603B0B54809
 - expected_values:
+    MITSUBISHI_TP_RR: 34.4
+    MITSUBISHI_TT_RR: 10
+  response: |-
+    500100D612500C20123
+    500213186C1A6AC3C0A
+- expected_values:
     MITSUBISHI_TP_RR: 35
     MITSUBISHI_TT_RR: 14
   response: |-

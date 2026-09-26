@@ -7,8 +7,8 @@ test_cases:
     MITSUBISHI_AC_AAT: 15.5
   response: 5110761116F08000000
 - expected_values:
-    MITSUBISHI_AC_AAT: 18
-  response: 511076111743A000000
+    MITSUBISHI_AC_AAT: 22
+  response: 5110761117C5B000000
 - expected_values:
     MITSUBISHI_AC_AAT: 39.5
   response: 5110761119F3A000000

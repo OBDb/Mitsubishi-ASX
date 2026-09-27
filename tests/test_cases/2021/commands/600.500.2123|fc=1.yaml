@@ -49,12 +49,6 @@ test_cases:
     500100D612300C270FF
     50021320301B0B54FFF
 - expected_values:
-    MITSUBISHI_TP_FL: 35.6
-    MITSUBISHI_TT_FL: 23
-  response: |-
-    500100D612300C270FF
-    50021320303ADB24961
-- expected_values:
     MITSUBISHI_TP_FL: 33.4
     MITSUBISHI_TT_FL: 10
   response: |-
@@ -66,3 +60,9 @@ test_cases:
   response: |-
     500100D612300C270FF
     500213203C1A5AC400B
+- expected_values:
+    MITSUBISHI_TP_FL: 36.4
+    MITSUBISHI_TT_FL: 27
+  response: |-
+    500100D612300C270FF
+    500213203C3B0B64D70

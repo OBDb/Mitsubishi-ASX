@@ -17,13 +17,13 @@ test_cases:
     MITSUBISHI_AC_VSS: 250
   response: 5110761135205871FFF
 - expected_values:
+    MITSUBISHI_AC_RPM: 3696
+    MITSUBISHI_AC_VSS: 250
+  response: 511076113700E702B33
+- expected_values:
     MITSUBISHI_AC_RPM: 2148
     MITSUBISHI_AC_VSS: 250
   response: 5110761137C08643AC2
-- expected_values:
-    MITSUBISHI_AC_RPM: 3830
-    MITSUBISHI_AC_VSS: 250
-  response: 5110761137E0EF62436
 - expected_values:
     MITSUBISHI_AC_RPM: 1792
     MITSUBISHI_AC_VSS: 250

@@ -1,8 +1,8 @@
 command_id: 6A0.514.21AF|fc=1
 test_cases:
 - expected_values:
-    MITSUBISHI_DASHBOARD_V: 12.2
-  response: 5140361AF7A
+    MITSUBISHI_DASHBOARD_V: 12.1
+  response: 5140361AF79
 - expected_values:
-    MITSUBISHI_DASHBOARD_V: 14.8
-  response: 5140361AF94
+    MITSUBISHI_DASHBOARD_V: 14.9
+  response: 5140361AF95

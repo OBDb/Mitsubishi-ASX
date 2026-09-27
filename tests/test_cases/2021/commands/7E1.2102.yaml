@@ -1,9 +1,9 @@
 command_id: 7E1.2102
 test_cases:
 - expected_values:
-    MITSUBISHI_INPUT_VSS: 13696
+    MITSUBISHI_INPUT_VSS: 9600
     MITSUBISHI_OUTPUT_VSS: 0
-  response: 7E80761022E6B000000
+  response: 7E80761022C4B000000
 - expected_values:
     MITSUBISHI_INPUT_VSS: 8320
     MITSUBISHI_OUTPUT_VSS: 0

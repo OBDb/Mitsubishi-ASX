@@ -14,7 +14,7 @@ test_cases:
   response: 7E8076101A40321FC6D
 - expected_values:
     MITSUBISHI_PRIMARY_PRES_7E1_01: -85.26
-  response: 7E8076101A4353E004D
+  response: 7E8076101A410280059
 - expected_values:
     MITSUBISHI_PRIMARY_PRES_7E1_01: 234.62496
   response: 7E8076101B20010F04D

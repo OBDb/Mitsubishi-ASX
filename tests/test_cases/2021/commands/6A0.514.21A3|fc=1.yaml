@@ -1,8 +1,8 @@
 command_id: 6A0.514.21A3|fc=1
 test_cases:
 - expected_values:
-    MITSUBISHI_FLI: 64
-  response: 5140561A3010250
+    MITSUBISHI_FLI: 60
+  response: 5140561A301024C
 - expected_values:
     MITSUBISHI_FLI: 15
   response: 5140561A303041F

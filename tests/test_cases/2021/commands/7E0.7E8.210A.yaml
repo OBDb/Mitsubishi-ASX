@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.210A
+test_cases:
+- expected_values:
+    ASX_MPI_VVT_PHASE_ANGLE: -0.625
+  response: 7E807610A00007F1000
+- expected_values:
+    ASX_MPI_VVT_PHASE_ANGLE: 0
+  response: 7E807610A476D800FE0
+- expected_values:
+    ASX_MPI_VVT_PHASE_ANGLE: 1.875
+  response: 7E807610A4954831000
+- expected_values:
+    ASX_MPI_VVT_PHASE_ANGLE: -25.625
+  response: 7E807610A4BFD570B00
+- expected_values:
+    ASX_MPI_VVT_PHASE_ANGLE: -26.875
+  response: 7E807610A4E44550AC0
+- expected_values:
+    ASX_MPI_VVT_PHASE_ANGLE: 0
+  response: 7E807610A5458800F40

@@ -1,0 +1,27 @@
+command_id: 7E1.7E9.2106|fc=1
+test_cases:
+- expected_values:
+    ASX_CVT_GEAR_AT_NUMBER: 1
+    ASX_CVT_SELECTOR_DS: 0
+    ASX_CVT_SELECTOR_DS_7E1_06: 0
+  response: '7E9056106010000'
+- expected_values:
+    ASX_CVT_GEAR_AT_NUMBER: 1
+    ASX_CVT_SELECTOR_DS: 0
+    ASX_CVT_SELECTOR_DS_7E1_06: 0
+  response: '7E9056106020000'
+- expected_values:
+    ASX_CVT_GEAR_AT_NUMBER: 1
+    ASX_CVT_SELECTOR_DS: 0
+    ASX_CVT_SELECTOR_DS_7E1_06: 0
+  response: '7E9056106040000'
+- expected_values:
+    ASX_CVT_GEAR_AT_NUMBER: 1
+    ASX_CVT_SELECTOR_DS: 0
+    ASX_CVT_SELECTOR_DS_7E1_06: 0
+  response: '7E9056106080000'
+- expected_values:
+    ASX_CVT_GEAR_AT_NUMBER: 1
+    ASX_CVT_SELECTOR_DS: 1
+    ASX_CVT_SELECTOR_DS_7E1_06: 0
+  response: '7E9056106100000'

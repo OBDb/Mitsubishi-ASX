@@ -1,62 +1,62 @@
 command_id: 600.500.2125|fc=1
 test_cases:
 - expected_values:
-    MITSUBISHI_TP_RR: 32.8
-    MITSUBISHI_TT_RR: 3
+    ASX_TP_RR: 32.8
+    ASX_TT_RR: 3
   response: |-
     500100D612500C20123
     500213186019FA43510
 - expected_values:
-    MITSUBISHI_TP_RR: 33
-    MITSUBISHI_TT_RR: 5
+    ASX_TP_RR: 33
+    ASX_TT_RR: 5
   response: |-
     500100D612500C20123
     50021318601A0A5370A
 - expected_values:
-    MITSUBISHI_TP_RR: 33
-    MITSUBISHI_TT_RR: 5
+    ASX_TP_RR: 33
+    ASX_TT_RR: 5
   response: |-
     500100D612500C20123
     50021318601A0A5370F
 - expected_values:
-    MITSUBISHI_TP_RR: 35.2
-    MITSUBISHI_TT_RR: 13
+    ASX_TP_RR: 35.2
+    ASX_TT_RR: 13
   response: |-
     500100D612500C20123
     50021318601A8B03F86
 - expected_values:
-    MITSUBISHI_TP_RR: 35.8
-    MITSUBISHI_TT_RR: 14
+    ASX_TP_RR: 35.8
+    ASX_TT_RR: 14
   response: |-
     500100D612500C20123
     50021318601ABB3400B
 - expected_values:
-    MITSUBISHI_TP_RR: 36
-    MITSUBISHI_TT_RR: 20
+    ASX_TP_RR: 36
+    ASX_TT_RR: 20
   response: |-
     500100D612500C20123
     50021318601AFB44607
 - expected_values:
-    MITSUBISHI_TP_RR: 36.2
-    MITSUBISHI_TT_RR: 22
+    ASX_TP_RR: 36.2
+    ASX_TT_RR: 22
   response: |-
     500100D612500C20123
     50021318603B0B54809
 - expected_values:
-    MITSUBISHI_TP_RR: 33.6
-    MITSUBISHI_TT_RR: 9
+    ASX_TP_RR: 33.6
+    ASX_TT_RR: 9
   response: |-
     500100D612500C20123
     500213186C1A3A83B07
 - expected_values:
-    MITSUBISHI_TP_RR: 35
-    MITSUBISHI_TT_RR: 14
-  response: |-
-    500100D612500C20123
-    500213186C1A8AF4009
-- expected_values:
-    MITSUBISHI_TP_RR: 35.2
-    MITSUBISHI_TT_RR: 13
+    ASX_TP_RR: 35.2
+    ASX_TT_RR: 13
   response: |-
     500100D612500C20123
     500213186C1A9B03FFF
+- expected_values:
+    ASX_TP_RR: 38.2
+    ASX_TT_RR: 36
+  response: |-
+    500100D612500C20123
+    500213186C1BBBF56FF

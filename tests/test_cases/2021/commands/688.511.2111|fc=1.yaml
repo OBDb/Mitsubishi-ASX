@@ -1,14 +1,14 @@
 command_id: 688.511.2111|fc=1
 test_cases:
 - expected_values:
-    MITSUBISHI_AC_AAT: -4
+    ASX_AC_AAT: -4
   response: 511076111481B000000
 - expected_values:
-    MITSUBISHI_AC_AAT: 14.5
+    ASX_AC_AAT: 14.5
   response: 5110761116D08000000
 - expected_values:
-    MITSUBISHI_AC_AAT: 19.5
+    ASX_AC_AAT: 19.5
   response: '5110761117765000000'
 - expected_values:
-    MITSUBISHI_AC_AAT: 41
+    ASX_AC_AAT: 41
   response: 511076111A22C000000

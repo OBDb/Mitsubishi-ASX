@@ -13,11 +13,11 @@ test_cases:
     500100D612300C270FF
     500213203019CA2361F
 - expected_values:
-    ASX_TP_FL: 33
-    ASX_TT_FL: 7
+    ASX_TP_FL: 32.2
+    ASX_TT_FL: 10
   response: |-
     500100D612300C270FF
-    50021320301A0A539FA
+    50021320301A0A13C1F
 - expected_values:
     ASX_TP_FL: 33.2
     ASX_TT_FL: 7

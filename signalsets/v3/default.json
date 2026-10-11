@@ -1,4 +1,8 @@
-{ "commands": [
+{ "ecu": [
+    { "hdr": "7E0", "type": "engine" },
+    { "hdr": "7E1", "type": "transmission" }
+  ],
+  "commands": [
 { "hdr": "600", "rax": "500", "fcm1": true, "cmd": {"21": "23"}, "freq": 15, "dbgfilter": { "to": 2020, "from": 2022 },
   "signals": [
     {"id": "ASX_TP_FL", "path": "Tires", "fmt": {"bix": 64, "len": 8, "max": 51,              "div": 5,             "unit": "psi"     }, "name": "Pressure front left",    "suggestedMetric": "frontLeftTirePressure"},

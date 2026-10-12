@@ -49,11 +49,11 @@ test_cases:
     500100D612600C270FA
     5002145BD01AFB44714
 - expected_values:
-    ASX_TP_FR: 33.8
-    ASX_TT_FR: 9
+    ASX_TP_FR: 32.8
+    ASX_TT_FR: 11
   response: |-
     500100D612600C270FA
-    5002145BDC1A3A93B1D
+    5002145BDC1A3A43DFF
 - expected_values:
     ASX_TP_FR: 36.6
     ASX_TT_FR: 24

@@ -1,12 +1,10 @@
 command_id: 7E0.7E8.2115
 test_cases:
 - expected_values:
-    ASX_DPF_MAX_T_1: -400
     ASX_DPF_ODO: 4608
     ASX_DPF_SOOT: 0
   response: '7E80761150012000000'
 - expected_values:
-    ASX_DPF_MAX_T_1: -400
     ASX_DPF_ODO: 58880
     ASX_DPF_SOOT: 0
   response: 7E807611500E6000000

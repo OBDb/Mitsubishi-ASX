@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     LOAD_ABS: 13.72549
   response: '7E80441430023'
+- expected_values:
+    LOAD_ABS: 60.39216
+  response: 7E8044143009A
+- expected_values:
+    LOAD_ABS: 63.52941
+  response: 7E804414300A2
+- expected_values:
+    LOAD_ABS: 67.45098
+  response: 7E804414300AC

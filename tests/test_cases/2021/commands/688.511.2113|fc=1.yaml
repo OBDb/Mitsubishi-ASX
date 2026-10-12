@@ -13,17 +13,21 @@ test_cases:
     ASX_AC_VSS: 0
   response: 5110761134602A40000
 - expected_values:
-    ASX_AC_RPM: 1415
+    ASX_AC_RPM: 2084
     ASX_AC_VSS: 250
-  response: 5110761135205871FFF
+  response: 51107611348082438FF
+- expected_values:
+    ASX_AC_RPM: 1791
+    ASX_AC_VSS: 250
+  response: 5110761134C06FF31B0
+- expected_values:
+    ASX_AC_RPM: 2048
+    ASX_AC_VSS: 250
+  response: 5110761134C0800386D
 - expected_values:
     ASX_AC_RPM: 4864
     ASX_AC_VSS: 250
   response: '5110761136013003732'
-- expected_values:
-    ASX_AC_RPM: 1279
-    ASX_AC_VSS: 250
-  response: 5110761137204FF1A1E
 - expected_values:
     ASX_AC_RPM: 2193
     ASX_AC_VSS: 250

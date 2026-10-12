@@ -172,7 +172,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"21": "10"}, "freq": 5, "dbgfilter": { "to": 2020, "from": 2022 },
   "signals": [
-    {"id": "ASX_EXH_GAS_T",      "path": "Engine", "fmt": {           "len": 8, "max": 1075, "min": -200, "mul": 5,           "add": -200,                  "unit": "celsius"    }, "name": "Exhaust gas temperature"},
+    {"id": "ASX_EXH_GAS_T",      "path": "Engine", "fmt": {           "len": 8, "max": 1075, "min": -200, "mul": 5,           "add": -200, "nullmin": -200, "unit": "celsius"    }, "name": "Exhaust gas temperature"},
     {"id": "ASX_CAT_T",          "path": "Engine", "fmt": {"bix": 8,  "len": 8, "max": 1075, "min": -200, "mul": 5,           "add": -200, "nullmin": -200, "unit": "celsius"    }, "name": "Catalyst temperature"},
     {"id": "ASX_DPF_T",          "path": "Engine", "fmt": {"bix": 16, "len": 8, "max": 1075, "min": -200, "mul": 5,           "add": -200,                  "unit": "celsius"    }, "name": "Diesel particulate filter temperature"},
     {"id": "ASX_DPF_DIFF_P_7E0", "path": "Engine", "fmt": {"bix": 24, "len": 8, "max": 117,  "min": -10,            "div": 2, "add": -10,                   "unit": "kilopascal" }, "name": "Diesel particulate filter differential pressure"},
@@ -191,9 +191,9 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"21": "15"}, "freq": 30, "dbgfilter": { "to": 2020, "from": 2022 },
   "signals": [
-    {"id": "ASX_DPF_ODO",     "path": "Trips",  "fmt": {           "len": 24, "max": 16777215,                                      "unit": "kilometers" }, "name": "Diesel particulate filter odometer"},
-    {"id": "ASX_DPF_SOOT",    "path": "Engine", "fmt": {"bix": 24, "len": 8,  "max": 255,                                           "unit": "unknown"    }, "name": "Diesel particulate filter soot"},
-    {"id": "ASX_DPF_MAX_T_1", "path": "Engine", "fmt": {"bix": 32, "len": 8,  "max": 2150,     "min": -400, "mul": 10, "add": -400, "unit": "celsius"    }, "name": "Diesel particulate filter, maximum temperature 1"}
+    {"id": "ASX_DPF_ODO",     "path": "Trips",  "fmt": {           "len": 24, "max": 16777215,                                                       "unit": "kilometers" }, "name": "Diesel particulate filter odometer"},
+    {"id": "ASX_DPF_SOOT",    "path": "Engine", "fmt": {"bix": 24, "len": 8,  "max": 255,                                                            "unit": "unknown"    }, "name": "Diesel particulate filter soot"},
+    {"id": "ASX_DPF_MAX_T_1", "path": "Engine", "fmt": {"bix": 32, "len": 8,  "max": 2150,     "min": -400, "mul": 10, "add": -400, "nullmin": -400, "unit": "celsius"    }, "name": "Diesel particulate filter, maximum temperature 1"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"21": "1A"}, "freq": 1, "dbgfilter": { "to": 2020, "from": 2022 },
   "signals": [

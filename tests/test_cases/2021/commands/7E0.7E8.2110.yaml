@@ -3,7 +3,6 @@ test_cases:
 - expected_values:
     ASX_DPF_DIFF_P_7E0: -9
     ASX_DPF_T: 55
-    ASX_EXH_GAS_T: -200
   response: 7E8076110000033020E
 - expected_values:
     ASX_DPF_DIFF_P_7E0: -9.5

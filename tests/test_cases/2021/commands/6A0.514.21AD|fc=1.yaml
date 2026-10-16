@@ -7,8 +7,8 @@ test_cases:
     ASX_ODO: 170245
   response: 5140561AD059902
 - expected_values:
-    ASX_ODO: 173478
-  response: 5140561ADA6A502
+    ASX_ODO: 174619
+  response: 5140561AD1BAA02
 - expected_values:
     ASX_ODO: 170495
   response: 5140561ADFF9902

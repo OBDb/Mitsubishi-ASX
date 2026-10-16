@@ -22,6 +22,13 @@ test_cases:
     7E9100A610200003A2A
     7E921609B009AFFFFFF
 - expected_values:
+    ASX_ATF_T: 136
+    ASX_INPUT_VSS: 29.5
+    ASX_OUTPUT_VSS: 5424.5
+  response: |-
+    7E9100A610200003B2A
+    7E92161B000AEFFFFFF
+- expected_values:
     ASX_ATF_T: 121
     ASX_INPUT_VSS: 29.5
     ASX_OUTPUT_VSS: 5550.5

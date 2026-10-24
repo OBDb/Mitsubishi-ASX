@@ -9,9 +9,9 @@ test_cases:
     ASX_AC_VSS: 250
   response: 5110761133E07A53600
 - expected_values:
-    ASX_AC_RPM: 755
+    ASX_AC_RPM: 665
     ASX_AC_VSS: 0
-  response: 5110761134002F30000
+  response: '5110761134002990000'
 - expected_values:
     ASX_AC_RPM: 2048
     ASX_AC_VSS: 250

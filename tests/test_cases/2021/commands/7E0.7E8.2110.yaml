@@ -3,29 +3,30 @@ test_cases:
 - expected_values:
     ASX_DPF_DIFF_P_7E0: -9
     ASX_DPF_T: 55
+    ASX_EXH_GAS_T: 0
   response: 7E8076110000033020E
 - expected_values:
     ASX_DPF_DIFF_P_7E0: -9.5
     ASX_DPF_T: 110
-    ASX_EXH_GAS_T: -140
+    ASX_EXH_GAS_T: 12
   response: 7E80761100C003E01FF
 - expected_values:
     ASX_DPF_DIFF_P_7E0: -9
     ASX_DPF_T: 75
-    ASX_EXH_GAS_T: -125
+    ASX_EXH_GAS_T: 15
   response: 7E80761100F00370200
 - expected_values:
     ASX_DPF_DIFF_P_7E0: -9
     ASX_DPF_T: 35
-    ASX_EXH_GAS_T: 220
+    ASX_EXH_GAS_T: 84
   response: 7E807611054002F0202
 - expected_values:
     ASX_DPF_DIFF_P_7E0: -9.5
     ASX_DPF_T: 165
-    ASX_EXH_GAS_T: 510
+    ASX_EXH_GAS_T: 142
   response: 7E80761108E004901EC
 - expected_values:
     ASX_DPF_DIFF_P_7E0: -9.5
     ASX_DPF_T: 60
-    ASX_EXH_GAS_T: 1060
+    ASX_EXH_GAS_T: 252
   response: 7E8076110FC003401FD

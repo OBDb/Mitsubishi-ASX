@@ -1,11 +1,23 @@
 command_id: 600.500.2124|fc=1
 test_cases:
 - expected_values:
-    ASX_TP_RL: 32.8
+    ASX_TP_RL: 32.2
+    ASX_TT_RL: -2
+  response: |-
+    500100D612400C270FF
+    500213202019BA13016
+- expected_values:
+    ASX_TP_RL: 32
+    ASX_TT_RL: 1
+  response: |-
+    500100D612400C270FF
+    500213202019CA0330B
+- expected_values:
+    ASX_TP_RL: 33
     ASX_TT_RL: 2
   response: |-
     500100D612400C270FF
-    500213202019FA43418
+    50021320201A0A534E1
 - expected_values:
     ASX_TP_RL: 33.2
     ASX_TT_RL: 6
@@ -18,12 +30,6 @@ test_cases:
   response: |-
     500100D612400C270FF
     50021320201A6AB35FF
-- expected_values:
-    ASX_TP_RL: 35.2
-    ASX_TT_RL: 10
-  response: |-
-    500100D612400C270FF
-    50021320201A9B03C7B
 - expected_values:
     ASX_TP_RL: 36
     ASX_TT_RL: 13
@@ -43,12 +49,6 @@ test_cases:
     500100D612400C270FF
     50021320201AFB44408
 - expected_values:
-    ASX_TP_RL: 36.2
-    ASX_TT_RL: 18
-  response: |-
-    500100D612400C270FF
-    50021320201B0B5443B
-- expected_values:
     ASX_TP_RL: 38.2
     ASX_TT_RL: 32
   response: |-
@@ -61,8 +61,8 @@ test_cases:
     500100D612400C270FF
     50021320203B2B74711
 - expected_values:
-    ASX_TP_RL: 34
-    ASX_TT_RL: 11
+    ASX_TP_RL: 33
+    ASX_TT_RL: 1
   response: |-
     500100D612400C270FF
-    500213202C1A6AA3D0D
+    500213202C19FA533F7

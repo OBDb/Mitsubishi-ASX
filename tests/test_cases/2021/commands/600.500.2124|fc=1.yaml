@@ -1,17 +1,11 @@
 command_id: 600.500.2124|fc=1
 test_cases:
 - expected_values:
-    ASX_TP_RL: 32.2
-    ASX_TT_RL: -2
-  response: |-
-    500100D612400C270FF
-    500213202019BA13016
-- expected_values:
     ASX_TP_RL: 32
-    ASX_TT_RL: 1
+    ASX_TT_RL: -1
   response: |-
     500100D612400C270FF
-    500213202019CA0330B
+    500213202019BA03116
 - expected_values:
     ASX_TP_RL: 33
     ASX_TT_RL: 2
@@ -62,7 +56,7 @@ test_cases:
     50021320203B2B74711
 - expected_values:
     ASX_TP_RL: 32.8
-    ASX_TT_RL: 4
+    ASX_TT_RL: 2
   response: |-
     500100D612400C270FF
-    500213202C19FA43609
+    500213202C19FA43411

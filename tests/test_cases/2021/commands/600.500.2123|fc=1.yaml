@@ -14,10 +14,10 @@ test_cases:
     50021320301989E3210
 - expected_values:
     ASX_TP_FL: 32
-    ASX_TT_FL: 3
+    ASX_TT_FL: 0
   response: |-
     500100D612300C270FF
-    500213203019BA035E8
+    500213203019AA03253
 - expected_values:
     ASX_TP_FL: 32.4
     ASX_TT_FL: 4

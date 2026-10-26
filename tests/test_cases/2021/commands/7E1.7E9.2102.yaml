@@ -58,18 +58,18 @@ test_cases:
     7E9217FB106AFFFFFFF
 - expected_values:
     ASX_ATF_T: 145
+    ASX_INPUT_VSS: 3886
+    ASX_OUTPUT_VSS: 6630.5
+  response: |-
+    7E9100A6102071E5C33
+    7E921CDB91FB9FFFFFF
+- expected_values:
+    ASX_ATF_T: 145
     ASX_INPUT_VSS: 3924
     ASX_OUTPUT_VSS: 9678.5
   response: |-
     7E9100A6102071EA84B
     7E9219DB91EB9FFFFFF
-- expected_values:
-    ASX_ATF_T: 143
-    ASX_INPUT_VSS: 4008.5
-    ASX_OUTPUT_VSS: 4790
-  response: |-
-    7E9100A6102081F5125
-    7E9216CB71FB6FFFFFF
 - expected_values:
     ASX_ATF_T: 133
     ASX_INPUT_VSS: 5672.5

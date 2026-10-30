@@ -8,10 +8,10 @@ test_cases:
     5002145BD01989F2F3A
 - expected_values:
     ASX_TP_FR: 32
-    ASX_TT_FR: 3
+    ASX_TT_FR: 0
   response: |-
     500100D612600C270FA
-    5002145BD019BA03508
+    5002145BD019BA0323D
 - expected_values:
     ASX_TP_FR: 32.2
     ASX_TT_FR: 2

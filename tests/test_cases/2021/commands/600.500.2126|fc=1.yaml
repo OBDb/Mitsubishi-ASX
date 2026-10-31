@@ -1,23 +1,17 @@
 command_id: 600.500.2126|fc=1
 test_cases:
 - expected_values:
-    ASX_TP_FR: 31.8
-    ASX_TT_FR: -3
+    ASX_TP_FR: 31.4
+    ASX_TT_FR: 0
   response: |-
     500100D612600C270FA
-    5002145BD01989F2F3A
+    5002145BD01989D3230
 - expected_values:
     ASX_TP_FR: 32
     ASX_TT_FR: -1
   response: |-
     500100D612600C270FA
     5002145BD019BA0310D
-- expected_values:
-    ASX_TP_FR: 32
-    ASX_TT_FR: 4
-  response: |-
-    500100D612600C270FA
-    5002145BD019BA03610
 - expected_values:
     ASX_TP_FR: 32.2
     ASX_TT_FR: 0

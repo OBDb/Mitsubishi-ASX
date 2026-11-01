@@ -1,9 +1,9 @@
 command_id: 688.511.2113|fc=1
 test_cases:
 - expected_values:
-    ASX_AC_RPM: 1196
+    ASX_AC_RPM: 1271
     ASX_AC_VSS: 250
-  response: 5110761132C04AC1AE8
+  response: 5110761132A04F71BA6
 - expected_values:
     ASX_AC_RPM: 1279
     ASX_AC_VSS: 250

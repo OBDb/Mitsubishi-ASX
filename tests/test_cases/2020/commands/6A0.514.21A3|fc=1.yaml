@@ -1,0 +1,11 @@
+command_id: 6A0.514.21A3|fc=1
+test_cases:
+- expected_values:
+    ASX_FLI: 36
+  response: 5140561A3200334
+- expected_values:
+    ASX_FLI: 100
+  response: 5140561A32A037F
+- expected_values:
+    ASX_FLI: 36
+  response: 5140561A32F0334

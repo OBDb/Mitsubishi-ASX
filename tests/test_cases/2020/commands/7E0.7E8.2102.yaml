@@ -1,0 +1,12 @@
+command_id: 7E0.7E8.2102
+test_cases:
+- expected_values:
+    ASX_BP: 0
+    ASX_MPI_ECT: 49
+    ASX_MPI_IAT: 11
+  response: '7E80761023359000000'
+- expected_values:
+    ASX_BP: 0
+    ASX_MPI_ECT: 51
+    ASX_MPI_IAT: 11
+  response: 7E8076102335B000000

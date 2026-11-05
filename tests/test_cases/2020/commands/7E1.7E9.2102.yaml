@@ -1,0 +1,16 @@
+command_id: 7E1.7E9.2102
+test_cases:
+- expected_values:
+    ASX_ATF_T: 144
+    ASX_INPUT_VSS: 32
+    ASX_OUTPUT_VSS: 5355
+  response: |-
+    7E9100A610200004029
+    7E921D6B823B6FFFFFF
+- expected_values:
+    ASX_ATF_T: 144
+    ASX_INPUT_VSS: 32
+    ASX_OUTPUT_VSS: 5355.5
+  response: |-
+    7E9100A610200004029
+    7E921D7B824B6FFFFFF

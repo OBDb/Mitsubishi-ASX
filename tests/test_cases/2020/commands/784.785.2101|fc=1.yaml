@@ -1,0 +1,10 @@
+command_id: 784.785.2101|fc=1
+test_cases:
+- expected_values:
+    ASX_ABS_FL_VSS: 0
+    ASX_ABS_FR_VSS: 0
+    ASX_ABS_RL_VSS: 0
+    ASX_ABS_RR_VSS: 0
+  response: |-
+    785100A610100000000
+    7852100000000FFFFFF

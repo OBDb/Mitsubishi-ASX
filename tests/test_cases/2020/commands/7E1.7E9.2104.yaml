@@ -1,0 +1,16 @@
+command_id: 7E1.7E9.2104
+test_cases:
+- expected_values:
+    ASX_AT_CUR_GEAR: 37
+    ASX_AT_LINE_PRES: 1.18588
+    ASX_TARGET_GEAR_AT_RATIO: 1.02
+  response: |-
+    7E9100D61042566CE30
+    7E9212C020000140000
+- expected_values:
+    ASX_AT_CUR_GEAR: 37
+    ASX_AT_LINE_PRES: 1.21059
+    ASX_TARGET_GEAR_AT_RATIO: 1.02
+  response: |-
+    7E9100D61042566CE31
+    7E9212C020000140000

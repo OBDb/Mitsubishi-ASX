@@ -1,0 +1,6 @@
+command_id: 7E0.7E8.211A
+test_cases:
+- expected_values:
+    ASX_MPI_ABSOLUTE_LOAD: 21.17647
+    ASX_MPI_CALCULATED_LOAD: 27.84314
+  response: 7E807611A4736000000

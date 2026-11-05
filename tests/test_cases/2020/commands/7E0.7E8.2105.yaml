@@ -1,0 +1,10 @@
+command_id: 7E0.7E8.2105
+test_cases:
+- expected_values:
+    ASX_MPI_IGN_ADVANCE: 17
+    ASX_MPI_INJECTOR_DRIVE_TIME: 2.5
+  response: 7E8076105250A000000
+- expected_values:
+    ASX_MPI_IGN_ADVANCE: 20
+    ASX_MPI_INJECTOR_DRIVE_TIME: 2.5
+  response: 7E8076105280A000000

@@ -1,0 +1,8 @@
+command_id: 600.500.2124|fc=1
+test_cases:
+- expected_values:
+    ASX_TP_RL: 42.4
+    ASX_TT_RL: 16
+  response: |-
+    500100D612400D2D46F
+    500218FAF01D4D4421F

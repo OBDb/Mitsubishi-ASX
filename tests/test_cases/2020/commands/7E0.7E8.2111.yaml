@@ -1,0 +1,7 @@
+command_id: 7E0.7E8.2111
+test_cases:
+- expected_values:
+    ASX_DPF_SOOT_1: 0
+    ASX_DPF_SOOT_P_METHOD_G_L: 0
+    ASX_DPF_SOOT_SUM: 0
+  response: '7E80761110000000000'

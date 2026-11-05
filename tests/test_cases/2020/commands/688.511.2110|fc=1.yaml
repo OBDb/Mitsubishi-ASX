@@ -1,0 +1,23 @@
+command_id: 688.511.2110|fc=1
+test_cases:
+- expected_values:
+    ASX_AC_AIR_THERMO_SNS: 9.75
+    ASX_AC_ECT: 48
+    ASX_AC_INTERIOR_T: 9.25
+    ASX_AC_PRES: 0.37529
+    ASX_AC_SOLAR_SNS: 0
+  response: 51107611065671D0058
+- expected_values:
+    ASX_AC_AIR_THERMO_SNS: 9.75
+    ASX_AC_ECT: 51
+    ASX_AC_INTERIOR_T: 9.75
+    ASX_AC_PRES: 0.37529
+    ASX_AC_SOLAR_SNS: 0
+  response: 51107611067671D005B
+- expected_values:
+    ASX_AC_AIR_THERMO_SNS: 10.25
+    ASX_AC_ECT: 53
+    ASX_AC_INTERIOR_T: 10.5
+    ASX_AC_PRES: 0.37529
+    ASX_AC_SOLAR_SNS: 0
+  response: 5110761106A691D005D

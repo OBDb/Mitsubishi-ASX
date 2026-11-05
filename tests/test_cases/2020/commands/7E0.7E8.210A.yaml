@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.210A
+test_cases:
+- expected_values:
+    ASX_MPI_VVT_PHASE_ANGLE: -0.625
+  response: 7E807610A00007F1000

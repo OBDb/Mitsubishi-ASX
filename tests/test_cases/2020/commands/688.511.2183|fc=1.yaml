@@ -1,0 +1,9 @@
+command_id: 688.511.2183|fc=1
+test_cases:
+- expected_values:
+    ASX_AC_FAN_M1_WORK_TIME: 2159880
+    ASX_AC_FAN_M2_WORK_TIME: 494570
+  response: |-
+    5111010618300000376
+    511216D069768018262
+    51122007F1A68018262

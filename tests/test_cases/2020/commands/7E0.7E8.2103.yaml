@@ -1,0 +1,12 @@
+command_id: 7E0.7E8.2103
+test_cases:
+- expected_values:
+    ASX_MPI_AIR_FLOW_SNS_V: 1.09804
+    ASX_MPI_ENGINE_LOAD: 0
+    ASX_MPI_MANIFOLD_PRES: 37
+  response: 7E80761034A00380000
+- expected_values:
+    ASX_MPI_AIR_FLOW_SNS_V: 1.13725
+    ASX_MPI_ENGINE_LOAD: 0
+    ASX_MPI_MANIFOLD_PRES: 37.5
+  response: 7E80761034B003A0000

@@ -1,0 +1,14 @@
+command_id: 688.511.2113|fc=1
+test_cases:
+- expected_values:
+    ASX_AC_RPM: 1155
+    ASX_AC_VSS: 0
+  response: 5110761135C04830000
+- expected_values:
+    ASX_AC_RPM: 1182
+    ASX_AC_VSS: 0
+  response: 5110761135C049E0000
+- expected_values:
+    ASX_AC_RPM: 1227
+    ASX_AC_VSS: 0
+  response: 5110761135C04CB0000

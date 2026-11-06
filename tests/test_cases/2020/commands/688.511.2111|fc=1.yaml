@@ -1,5 +1,11 @@
 command_id: 688.511.2111|fc=1
 test_cases:
 - expected_values:
+    ASX_AC_AAT: 5
+  response: 5110761115A1A000000
+- expected_values:
+    ASX_AC_AAT: 5
+  response: 5110761115A1B000000
+- expected_values:
     ASX_AC_AAT: 7.5
   response: 5110761115F1F000000

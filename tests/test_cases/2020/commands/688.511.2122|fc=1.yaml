@@ -1,6 +1,11 @@
 command_id: 688.511.2122|fc=1
 test_cases:
 - expected_values:
+    ASX_AC_OUTPUT_MODE: 4
+    ASX_AC_OUTPUT_VSS_AS: 4.5
+    ASX_AC_OUTPUT_VSS_DR: 4.5
+  response: '5110761220909040000'
+- expected_values:
     ASX_AC_OUTPUT_MODE: 6
     ASX_AC_OUTPUT_VSS_AS: 4.5
     ASX_AC_OUTPUT_VSS_DR: 4.5

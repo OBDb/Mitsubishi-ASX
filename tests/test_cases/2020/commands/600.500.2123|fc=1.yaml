@@ -1,8 +1,38 @@
 command_id: 600.500.2123|fc=1
 test_cases:
 - expected_values:
+    ASX_TP_FL: 38.8
+    ASX_TT_FL: 4
+  response: |-
+    500100D612300D2D46F
+    500218FAE01C2C2360B
+- expected_values:
+    ASX_TP_FL: 39.4
+    ASX_TT_FL: 6
+  response: |-
+    500100D612300D2D46F
+    500218FAE01C5C5380F
+- expected_values:
+    ASX_TP_FL: 39.4
+    ASX_TT_FL: 6
+  response: |-
+    500100D612300D2D46F
+    500218FAE01C5C53831
+- expected_values:
+    ASX_TP_FL: 40
+    ASX_TT_FL: 9
+  response: |-
+    500100D612300D2D46F
+    500218FAE01C8C83B14
+- expected_values:
     ASX_TP_FL: 41.4
     ASX_TT_FL: 17
   response: |-
     500100D612300D2D46F
     500218FAE01CFCF4324
+- expected_values:
+    ASX_TP_FL: 39
+    ASX_TT_FL: 5
+  response: |-
+    500100D612300D2D46F
+    500218FAE02C3C3374D

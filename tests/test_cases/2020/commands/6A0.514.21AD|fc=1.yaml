@@ -18,3 +18,12 @@ test_cases:
 - expected_values:
     ASX_ODO: 51419
   response: 5140561ADDBC800
+- expected_values:
+    ASX_ODO: 51420
+  response: 5140561ADDCC800
+- expected_values:
+    ASX_ODO: 51421
+  response: 5140561ADDDC800
+- expected_values:
+    ASX_ODO: 51422
+  response: 5140561ADDEC800

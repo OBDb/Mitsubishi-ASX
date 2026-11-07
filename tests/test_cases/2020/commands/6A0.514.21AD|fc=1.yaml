@@ -4,26 +4,5 @@ test_cases:
     ASX_ODO: 51414
   response: 5140561ADD6C800
 - expected_values:
-    ASX_ODO: 51415
-  response: 5140561ADD7C800
-- expected_values:
-    ASX_ODO: 51416
-  response: 5140561ADD8C800
-- expected_values:
-    ASX_ODO: 51417
-  response: 5140561ADD9C800
-- expected_values:
-    ASX_ODO: 51418
-  response: 5140561ADDAC800
-- expected_values:
-    ASX_ODO: 51419
-  response: 5140561ADDBC800
-- expected_values:
-    ASX_ODO: 51420
-  response: 5140561ADDCC800
-- expected_values:
-    ASX_ODO: 51421
-  response: 5140561ADDDC800
-- expected_values:
-    ASX_ODO: 51422
-  response: 5140561ADDEC800
+    ASX_ODO: 51434
+  response: 5140561ADEAC800

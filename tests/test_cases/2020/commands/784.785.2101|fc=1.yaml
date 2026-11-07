@@ -8,3 +8,19 @@ test_cases:
   response: |-
     785100A610100000000
     7852100000000FFFFFF
+- expected_values:
+    ASX_ABS_FL_VSS: 39.48
+    ASX_ABS_FR_VSS: 39.66
+    ASX_ABS_RL_VSS: 39.4
+    ASX_ABS_RR_VSS: 39.52
+  response: |-
+    785100A61010F6C0F7E
+    785210F640F70FFFFFF
+- expected_values:
+    ASX_ABS_FL_VSS: 40.47
+    ASX_ABS_FR_VSS: 40.47
+    ASX_ABS_RL_VSS: 40.27
+    ASX_ABS_RR_VSS: 40.2
+  response: |-
+    785100A61010FCF0FCF
+    785210FBB0FB4FFFFFF

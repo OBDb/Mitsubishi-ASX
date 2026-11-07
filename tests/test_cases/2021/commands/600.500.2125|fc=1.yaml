@@ -31,6 +31,12 @@ test_cases:
     500100D612500C20123
     50021318601A0A5370A
 - expected_values:
+    ASX_TP_RR: 34.8
+    ASX_TT_RR: 13
+  response: |-
+    500100D612500C20123
+    50021318601A7AE3FFE
+- expected_values:
     ASX_TP_RR: 35.8
     ASX_TT_RR: 14
   response: |-
@@ -54,12 +60,6 @@ test_cases:
   response: |-
     500100D612500C20123
     500213186C1999F3063
-- expected_values:
-    ASX_TP_RR: 35.2
-    ASX_TT_RR: 13
-  response: |-
-    500100D612500C20123
-    500213186C1A9B03FFF
 - expected_values:
     ASX_TP_RR: 38.2
     ASX_TT_RR: 36

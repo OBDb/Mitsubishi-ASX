@@ -29,7 +29,19 @@ test_cases:
     ASX_TT_FR: 13
   response: |-
     500100D612600C2BC3C
-    50021BCA8A1D4D43F01
+    50021BCA801D4D43F36
+- expected_values:
+    ASX_TP_FR: 42.6
+    ASX_TT_FR: 14
+  response: |-
+    500100D612600C2BC3C
+    50021BCA801D5D5400A
+- expected_values:
+    ASX_TP_FR: 42.6
+    ASX_TT_FR: 13
+  response: |-
+    500100D612600C2BC3C
+    50021BCA802D5D53F2F
 - expected_values:
     ASX_TP_FR: 31.6
     ASX_TT_FR: 7
@@ -48,18 +60,6 @@ test_cases:
   response: |-
     500100D612600D2D46F
     50021915001C2C23760
-- expected_values:
-    ASX_TP_FR: 38.6
-    ASX_TT_FR: 4
-  response: |-
-    500100D612600D2D46F
-    50021915002C1C1360C
-- expected_values:
-    ASX_TP_FR: 40.6
-    ASX_TT_FR: 14
-  response: |-
-    500100D612600D2D46F
-    50021915002CBCB400B
 - expected_values:
     ASX_TP_FR: 0
     ASX_TT_FR: -50

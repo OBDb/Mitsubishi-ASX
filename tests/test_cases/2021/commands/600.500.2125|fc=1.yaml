@@ -35,7 +35,7 @@ test_cases:
     ASX_TT_RR: 13
   response: |-
     500100D612500C20123
-    50021318601A7AE3FFE
+    50021318601A7AE3FFA
 - expected_values:
     ASX_TP_RR: 35.8
     ASX_TT_RR: 14

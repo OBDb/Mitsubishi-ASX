@@ -4,5 +4,5 @@ test_cases:
     ASX_ODO: 51414
   response: 5140561ADD6C800
 - expected_values:
-    ASX_ODO: 51434
-  response: 5140561ADEAC800
+    ASX_ODO: 51439
+  response: 5140561ADEFC800

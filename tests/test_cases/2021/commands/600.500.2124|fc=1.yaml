@@ -19,11 +19,11 @@ test_cases:
     500100D612400C270FF
     500213202019AA1300E
 - expected_values:
-    ASX_TP_RL: 32.6
-    ASX_TT_RL: 1
+    ASX_TP_RL: 32.4
+    ASX_TT_RL: 3
   response: |-
     500100D612400C270FF
-    500213202019EA33310
+    500213202019DA23510
 - expected_values:
     ASX_TP_RL: 33
     ASX_TT_RL: 2

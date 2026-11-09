@@ -19,6 +19,12 @@ test_cases:
     500100D612400C2BC3C
     5002196EC019F9F3912
 - expected_values:
+    ASX_TP_RL: 41.4
+    ASX_TT_RL: 5
+  response: |-
+    500100D612400C2BC3C
+    5002196EC01CFCF371C
+- expected_values:
     ASX_TP_RL: 41.6
     ASX_TT_RL: 8
   response: |-
@@ -42,12 +48,6 @@ test_cases:
   response: |-
     500100D612400D2D46F
     500218FAF01C7C73611
-- expected_values:
-    ASX_TP_RL: 41.4
-    ASX_TT_RL: 12
-  response: |-
-    500100D612400D2D46F
-    500218FAF01CFCF3E24
 - expected_values:
     ASX_TP_RL: 41.4
     ASX_TT_RL: 12

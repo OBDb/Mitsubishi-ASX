@@ -26,10 +26,10 @@ test_cases:
     5002196EC01CFCF371C
 - expected_values:
     ASX_TP_RL: 41.6
-    ASX_TT_RL: 8
+    ASX_TT_RL: 7
   response: |-
     500100D612400C2BC3C
-    5002196EC01D0D03A20
+    5002196EC01D0D03930
 - expected_values:
     ASX_TP_RL: 43.2
     ASX_TT_RL: 13

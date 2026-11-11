@@ -1,8 +1,11 @@
 command_id: 6A0.514.21AD|fc=1
 test_cases:
 - expected_values:
+    ASX_ODO: 51456
+  response: 5140561AD00C900
+- expected_values:
     ASX_ODO: 51414
   response: 5140561ADD6C800
 - expected_values:
-    ASX_ODO: 51452
-  response: 5140561ADFCC800
+    ASX_ODO: 51455
+  response: 5140561ADFFC800

@@ -29,7 +29,7 @@ test_cases:
     ASX_TT_FR: 8
   response: |-
     500100D612600C2BC3C
-    50021BCA801CFCF3A17
+    50021BCA801CFCF3A0E
 - expected_values:
     ASX_TP_FR: 42.4
     ASX_TT_FR: 13

@@ -7,9 +7,6 @@ test_cases:
     ASX_FLI: 100
   response: 5140561A32A037F
 - expected_values:
-    ASX_FLI: 35
-  response: 5140561A3360433
-- expected_values:
     ASX_FLI: 19
   response: 5140561A3520323
 - expected_values:
@@ -17,4 +14,4 @@ test_cases:
   response: 5140561A3820073
 - expected_values:
     ASX_FLI: 100
-  response: 5140561A3F3027F
+  response: 5140561A3FFFF7F

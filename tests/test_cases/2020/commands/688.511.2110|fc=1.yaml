@@ -1,6 +1,13 @@
 command_id: 688.511.2110|fc=1
 test_cases:
 - expected_values:
+    ASX_AC_AIR_THERMO_SNS: 3.5
+    ASX_AC_ECT: 13
+    ASX_AC_INTERIOR_T: 4.5
+    ASX_AC_PRES: 0.40118
+    ASX_AC_SOLAR_SNS: 0
+  response: 511076110524E1F0035
+- expected_values:
     ASX_AC_AIR_THERMO_SNS: 5
     ASX_AC_ECT: 16
     ASX_AC_INTERIOR_T: 5.5

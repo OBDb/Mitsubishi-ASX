@@ -35,7 +35,7 @@ test_cases:
     ASX_TT_FL: 13
   response: |-
     500100D612300C2BC3C
-    500219705C1D4D43F33
+    500219705C1D4D43F31
 - expected_values:
     ASX_TP_FL: 38.8
     ASX_TT_FL: 4

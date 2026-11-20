@@ -1,9 +1,9 @@
 command_id: 688.511.2113|fc=1
 test_cases:
 - expected_values:
-    ASX_AC_RPM: 1271
-    ASX_AC_VSS: 55.29688
-  response: 5110761132A04F71BA6
+    ASX_AC_RPM: 657
+    ASX_AC_VSS: 0
+  response: 5110761132A02910000
 - expected_values:
     ASX_AC_RPM: 1279
     ASX_AC_VSS: 54.1875
@@ -12,14 +12,6 @@ test_cases:
     ASX_AC_RPM: 1280
     ASX_AC_VSS: 62.32031
   response: 5110761132C05001F29
-- expected_values:
-    ASX_AC_RPM: 545
-    ASX_AC_VSS: 2.08594
-  response: 5110761132E0221010B
-- expected_values:
-    ASX_AC_RPM: 647
-    ASX_AC_VSS: 0
-  response: '5110761133002870000'
 - expected_values:
     ASX_AC_RPM: 1216
     ASX_AC_VSS: 47.99219

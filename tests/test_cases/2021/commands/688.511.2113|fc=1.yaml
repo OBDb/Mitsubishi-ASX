@@ -5,9 +5,13 @@ test_cases:
     ASX_AC_VSS: 14.9375
   response: 5110761132003DA0778
 - expected_values:
-    ASX_AC_RPM: 587
+    ASX_AC_RPM: 533
+    ASX_AC_VSS: 2.9375
+  response: '5110761132802150178'
+- expected_values:
+    ASX_AC_RPM: 549
     ASX_AC_VSS: 0
-  response: 5110761132A024B0000
+  response: '5110761132802250000'
 - expected_values:
     ASX_AC_RPM: 1279
     ASX_AC_VSS: 54.1875

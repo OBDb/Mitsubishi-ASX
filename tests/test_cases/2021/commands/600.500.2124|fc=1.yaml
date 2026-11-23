@@ -2,10 +2,10 @@ command_id: 600.500.2124|fc=1
 test_cases:
 - expected_values:
     ASX_TP_RL: 31.2
-    ASX_TT_RL: -4
+    ASX_TT_RL: -6
   response: |-
     500100D612400C270FF
-    50021320201979C2E08
+    50021320201979C2C13
 - expected_values:
     ASX_TP_RL: 31.4
     ASX_TT_RL: -3

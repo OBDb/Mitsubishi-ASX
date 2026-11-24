@@ -13,6 +13,12 @@ test_cases:
     500100D612600C2BC3C
     50021BCA8019F9F3944
 - expected_values:
+    ASX_TP_FR: 39
+    ASX_TT_FR: -2
+  response: |-
+    500100D612600C2BC3C
+    50021BCA801C3C33006
+- expected_values:
     ASX_TP_FR: 40.4
     ASX_TT_FR: 4
   response: |-
@@ -30,12 +36,6 @@ test_cases:
   response: |-
     500100D612600C2BC3C
     50021BCA801CFCF3A06
-- expected_values:
-    ASX_TP_FR: 42.6
-    ASX_TT_FR: 14
-  response: |-
-    500100D612600C2BC3C
-    50021BCA801D5D5400A
 - expected_values:
     ASX_TP_FR: 31.6
     ASX_TT_FR: 7

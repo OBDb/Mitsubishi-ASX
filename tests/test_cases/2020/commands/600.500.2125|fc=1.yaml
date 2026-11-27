@@ -26,10 +26,10 @@ test_cases:
     50021BF3A01C7C73009
 - expected_values:
     ASX_TP_RR: 41.4
-    ASX_TT_RR: 3
+    ASX_TT_RR: 2
   response: |-
     500100D612500C2BC3C
-    50021BF3A01CFCF352B
+    50021BF3A01CFCF3431
 - expected_values:
     ASX_TP_RR: 41.8
     ASX_TT_RR: 7

@@ -8,6 +8,13 @@ test_cases:
     ASX_AC_SOLAR_SNS: 0
   response: 5110761103E3E150030
 - expected_values:
+    ASX_AC_AIR_THERMO_SNS: -0.5
+    ASX_AC_ECT: 52
+    ASX_AC_INTERIOR_T: 4.25
+    ASX_AC_PRES: 0.25882
+    ASX_AC_SOLAR_SNS: 0
+  response: 511076110513E14005C
+- expected_values:
     ASX_AC_AIR_THERMO_SNS: 5
     ASX_AC_ECT: 6
     ASX_AC_INTERIOR_T: 5.5

@@ -13,11 +13,11 @@ test_cases:
     500100D612400C2BC3C
     5002196EC019C9C360F
 - expected_values:
-    ASX_TP_RL: 40.6
-    ASX_TT_RL: 1
+    ASX_TP_RL: 40.4
+    ASX_TT_RL: -1
   response: |-
     500100D612400C2BC3C
-    5002196EC01CBCB3310
+    5002196EC01CACA3130
 - expected_values:
     ASX_TP_RL: 43.2
     ASX_TT_RL: 13

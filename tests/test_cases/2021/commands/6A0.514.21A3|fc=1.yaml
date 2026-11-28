@@ -13,8 +13,8 @@ test_cases:
     ASX_FLI: 5
   response: 5140561A34C0415
 - expected_values:
-    ASX_FLI: 99
-  response: 5140561A3890073
+    ASX_FLI: 97
+  response: 5140561A3890071
 - expected_values:
     ASX_FLI: 84
   response: 5140561A3FF0064
